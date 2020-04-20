@@ -1,0 +1,22 @@
+.content-panel {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.navbar-nav:last-child li a.btn {
+  color: white;
+}
+
+.nav-item .btn {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .content-panel {
+    width: 45%;
+  }
+}
+
+.mobile-menu li.nav-item a.nav-link {
+  padding: 0;
+}
